@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 This is my little repository, i will share a little information about myself :3
 
 <!--
 **Kievskiy-webdev/kievskiy-webdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
